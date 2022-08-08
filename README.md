@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Sequelize-A8B9CC?style=flat&logo=Sequelize&logoColor=white"/></a>&nbsp 
 </p>
   
-<h3 align="center">📎 Ect Tech Stack 📎</h3>
+<h3 align="center">📎 ETC Tech Stack 📎</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-DB3552?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/></a>&nbsp
@@ -34,27 +34,31 @@
 
 <h3 align="center">📺 Front Tech Stack 📺</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ejs-00599C?style=fla&logo=AzurePipelines&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ejs-00599C?style=fla&logo=AzurePipelines&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Flutter-ffb13b?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ-11B48A?style=flat&logo=IntelliJ&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android Studio-00599C?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
 
+<!--
 <h3 align="center"> 🌈 My SMS 🌈 </h3>
 <p align="center">
   <a href="https://velog.io/@easyhwan"><img src="https://img.shields.io/badge/Blog-11B48A?         style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@easyhwan"/></a>&nbsp
   <a href="https://www.instagram.com/easyhawn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/easyhawn/"/></a>&nbsp
   <a href="mailto:easyhwan97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=easyhwan97@gmail.com"/></a>
 </p>
+-->
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/twkim326">
@@ -68,11 +72,6 @@
   </a>
 </p>
 <h3 align="center">🌈 Current page design story 🌈</h3>
-<div align="center" style="text-align:center">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=easyhwan&tag=readme&color=dark)](https://velog.io/@easyhwan/GitHub-%EB%82%98%EC%9D%98-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8C%80%EB%AC%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
-  
-</div>
   
 <br>
 <h3 align="center">💡 My Git View Count 💡</h3>
