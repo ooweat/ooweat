@@ -1,1 +1,1 @@
-<a href="https://ooweat.github.io/" target="_blank">새 탭에서 블로그 열기</a>
+<a href="https://ooweat.github.io/" target="_blank">ooweat 블로그 바로가기</a>
