@@ -1,5 +1,9 @@
 
-## ✅ Latest Blog Post
+### Hi there 👋
+
+📬  Contact Email : ooweat@kakao.com
+
+👨🏻‍💻  Tech & Daily Blog : <a href="https://kimtongting.tistory.com">ooweat 블로그 바로가기 :)</a>
 
 [[2023.03.06] - [MSA] CQRS 이런거였어?](https://ooweat.info/entry/MSA-CQRS-%EC%9D%B4%EB%9F%B0%EA%B1%B0%EC%98%80%EC%96%B4) <br/>
 [[2023.02.21] - 윈도우에서 맥 키보드 쓰기 / Alt + Tab / Ctrl + Tab 바꾸기](https://ooweat.info/entry/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C-%EB%A7%A5-%ED%82%A4%EB%B3%B4%EB%93%9C-%EC%93%B0%EA%B8%B0-Alt-Tab-Ctrl-Tab-%EB%B0%94%EA%BE%B8%EA%B8%B0) <br/>

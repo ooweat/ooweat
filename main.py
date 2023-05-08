@@ -1,13 +1,21 @@
-import feedparser, time
+import feedparser
+import time
 
 URL = "https://kimtongting.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
-markdown_text = """
-## ✅ Latest Blog Post
+markdown_text = """### Welcome My Github :) 👋
 
-"""  # list of blog posts will be appended here
+📬  Contact Email : ooweat@kakao.com
+
+👨🏻‍💻  Tech & Daily Blog : <a href="https://kimtongting.tistory.com">ooweat 블로그 바로가기 :)</a>
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=ooweat&show_icons=true&hide_border=False)](https://kimtongting.tistory.com)
+
+🤩 Latest Blog Post
+
+""" # list of blog posts will be appended here
 
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
