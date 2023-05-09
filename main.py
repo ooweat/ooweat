@@ -1,7 +1,7 @@
 import feedparser
 import time
 
-URL = "https://kimtongting.tistory.com/rss"
+URL = "https://ooweat.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
@@ -9,9 +9,9 @@ markdown_text = """### Welcome My Github :) 👋
 
 📬  Contact Email : ooweat@kakao.com
 
-👨🏻‍💻  Tech & Daily Blog : <a href="https://kimtongting.tistory.com">ooweat 블로그 바로가기 :)</a>
+👨🏻‍💻  Tech & Daily Blog : <a href="https://ooweat.tistory.com">ooweat 블로그 바로가기 :)</a>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=ooweat&show_icons=true&hide_border=False)](https://kimtongting.tistory.com)
+[![github stats](https://github-readme-stats.vercel.app/api?username=ooweat&show_icons=true&hide_border=False)](https://ooweat.tistory.com)
 
 🤩 Latest Blog Post
 
