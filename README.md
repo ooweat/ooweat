@@ -1,6 +1,6 @@
 ### Welcome My Github :) 👋
 
-대부분 private contributions 이라 잔디가 아쉽지만 노력하고 있어요.
+최근 대부분의 contributions이 Private 이라 잔디가 말라가고 있어 아쉽지만 노력하고 있어요.
 2024년에는 많은 public 잔디를 심을 수 있도록 약속하고 일을 더 편하게 할 수 있는 좋은 프로세스를 만들어 퍼뜨리게 노력할게요 :)
 
 📬  Contact Email : ooweat@kakao.com
