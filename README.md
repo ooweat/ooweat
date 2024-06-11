@@ -1,4 +1,4 @@
-### Welcome My Github :) 👋 I'm ooweat!
+### Welcome My Github :) 👋
 
 📬  Contact Email : ooweat@kakao.com
 
