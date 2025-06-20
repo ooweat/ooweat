@@ -1,9 +1,45 @@
-### Welcome My Github :) 👋
-Thanks you for comming!
+<h1 align="center">🔥 ooweat</h1>
+<p align="center">
+  Creative Developer · Building at <a href="https://iburn.dev" target="_blank"><b>iburn.xyz</b></a>  
+</p>
+
+<p align="center">
+  <a href="https://iburn.dev" target="_blank"><img src="https://img.shields.io/badge/Website-iburn.dev-black?style=flat-square&logo=vercel" /></a>
+  <a href="mailto:hi@iburn.dev"><img src="https://img.shields.io/badge/Email-hi@iburn.dev-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://youtube.com/@ooweat" target="_blank"><img src="https://img.shields.io/badge/YouTube-@ooweat-FF0000?style=flat-square&logo=youtube" /></a>
+  <a href="https://twitter.com/ooweat" target="_blank"><img src="https://img.shields.io/badge/Twitter-@ooweat-1DA1F2?style=flat-square&logo=twitter" /></a>
+  <a href="https://instagram.com/ooweat" target="_blank"><img src="https://img.shields.io/badge/Instagram-@ooweat-E4405F?style=flat-square&logo=instagram" /></a>
+</p>
+
+
+---
+
+### 👋 About Me
+
+안녕하세요. 저는 `taewoo` → 거꾸로 `ooweat`입니다.  
+🔥 아이디어를 태우고, 🌱 코드를 심고, 🎨 감성을 얹는 개발자입니다.
+
+- 🌐 I'm currently working on side-projects at [iburn.dev](https://iburn.xyz)
+- 🧠 관심 분야: Frontend, Backend, Creative Coding, DevOps, Digital Product Design
+- 🎥 인스타그램에서 일상을 이야기합니다 → [`@ooweat`](https://youtube.com/@ooweat)
+- 🎥 블로그에서 기술을 이야기합니다 → [`@ooweat`](https://ooweat.tistory.com)
+- 🧪 실험실: `labs.iburn.dev` (Coming soon)
+
+---
+
+### 🛠️ Tech Stack
+
+```ts
+const stack = {
+  languages: ['TypeScript', 'JavaScript', 'Java'],
+  frontend: ['React', 'TailwindCSS', 'Astro'],
+  backend: ['Node.js', 'Java', 'Firebase', 'Supabase'],
+  devops: ['Docker', 'GitHub Actions', 'Vercel', 'Jenkins'],
+  design: ['Figma', 'Spline', 'Lottie'],
+};
+
 
 📬  Contact Email : ooweat@kakao.com
-
-👨🏻‍💻  Tech & Daily Blog : <a href="https://ooweat.tistory.com">ooweat 블로그 바로가기 :)</a>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ooweat&show_icons=true&hide_border=False)](https://ooweat.tistory.com)
 
