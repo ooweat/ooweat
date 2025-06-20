@@ -17,7 +17,7 @@
 안녕하세요. 저는 `taewoo` → 거꾸로 `ooweat`입니다.  
 🔥 아이디어를 태우고, 🌱 코드를 심고, 🎨 감성을 얹는 개발자입니다.
 
-- 🌐 I'm currently working on side-projects at [iburn.dev](https://iburn.xyz)
+- 🌐 I'm currently working on side-projects at [iburn.xyz](https://iburn.xyz)
 - 🧠 관심 분야: Frontend, Backend, Creative Coding, DevOps, Digital Product Design
 - 🎥 블로그에서 기술을 이야기합니다 → [`@ooweat`](https://ooweat.tistory.com)
 - 🧪 실험실: `labs.iburn.dev` (Coming soon)
