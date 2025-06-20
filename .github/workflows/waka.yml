@@ -1,0 +1,23 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 매일 자정 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update this repo's README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_LANGUAGE: true
+          SHOW_TIMEZONE: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_COMMIT: true
+          SHOW_LINES_OF_CODE: true
