@@ -34,9 +34,8 @@ const stack = {
   devops: ['Docker', 'GitHub Actions', 'Vercel', 'Jenkins'],
   design: ['Figma', 'Spline', 'Lottie'],
 };
+```
 
-
-📬  Contact Email : ooweat@kakao.com
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ooweat&show_icons=true&hide_border=False)](https://ooweat.tistory.com)
 
